@@ -14,7 +14,7 @@ function openFacebookPage() {
     window.open("https://www.facebook.com/share/1AHBZiuybF/");
 }
 
-});
+
 const targetURL = "https://s.shopee.co.id/6puAFdql7p";
 let opened = false;
 
@@ -29,6 +29,7 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
 
 
 
